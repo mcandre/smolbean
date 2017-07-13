@@ -4,4 +4,4 @@ ifdef ComSpec
 endif
 
 pls:
-	@echo "@"
+	@echo @
