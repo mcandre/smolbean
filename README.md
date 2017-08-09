@@ -1,5 +1,7 @@
 # mcandre/smolbean: A little bean task in Make
 
+![bean](https://raw.githubusercontent.com/mcandre/smolbean/master/smolbean.gif)
+
 # EXAMPLE
 
 ```console
